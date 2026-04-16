@@ -17,6 +17,8 @@ I am a second year student at UNSW, pursuing Masters in Information Technology. 
   <img src="images/2.jpg" width="150"/>
   <img src="images/3.jpg" width="150"/>
   <img src="images/4.jpg" width="150"/>
+  <img src="images/10.jpg" width="150"/>
+  
 </p>
 <p align="left">
   <img src="images/5.jpg" width="150"/>
